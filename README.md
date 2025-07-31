@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" alt="EyeAssist Logo" width="150"/>
+  <img src="https://github.com/user-attachments/assets/7ca210c7-e7cb-4ad5-87c8-6a988a55be3c" alt="EyeAssist Logo" width="150"/>
 </p>
-
 <h1 align="center">EyeAssist – Mobile Assistant for the Visually Impaired</h1>
 
-# EyeAssist – Mobile Assistant for the Visually Impaired
 
 **EyeAssist** is a multi-functional mobile application designed to assist visually impaired individuals through real-time voice interaction, AI-based object detection, text reading, currency recognition, and intelligent image understanding. The app allows users to interact using voice commands and leverages computer vision and natural language processing to respond meaningfully.
 
@@ -101,7 +99,10 @@ To detect nearby objects in real time and guide the user toward or away from the
 - Indoor navigation, obstacle avoidance, directional guidance
 
 ---
+## Applicable Links
+- Dataset : https://app.roboflow.com/sushant-faqf6/indiancurrency/4
 
+---
 ## 🧠 Architecture Overview
 
 ```plaintext
@@ -116,3 +117,5 @@ AI/ML Backend (YOLOv8, Gemini API, ML Kit)
 Response Engine (TTS, Audio Feedback)
         ↓
 User Output (Voice Instructions)
+
+
