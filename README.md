@@ -101,6 +101,9 @@ To detect nearby objects in real time and guide the user toward or away from the
 ---
 ## Applicable Links
 - Dataset : https://app.roboflow.com/sushant-faqf6/indiancurrency/4
+- App Link : https://drive.google.com/file/d/1jBwL9tbeKd5IQTm30JaHlhCOkd0WpmR6/view?usp=drive_link
+- Trained Model : https://drive.google.com/file/d/10QfIZm1AnvY00jRne40NLghMby3DmoIz/view?usp=drive_link
+- App Demo : https://drive.google.com/file/d/11LA3NCtNfGrkw4uLgQgwYktUCY0lNTsi/view?usp=drive_link
 
 ---
 ## 🧠 Architecture Overview
